@@ -1,4 +1,10 @@
-building a standalone executable:
+# WC tool
+
+### the challenge 
+
+https://codingchallenges.fyi/challenges/challenge-wc
+
+### building a standalone executable
 
 node: https://nodejs.org/api/single-executable-applications.html
 
